@@ -1,0 +1,118 @@
+SCRIPT
+CANVA: https://canva.link/iu6z878jtovzwk6
+
+# Opening
+Today, I will introduce our project, **DRL Tracker**.
+
+DRL Tracker is a web platform that helps students find and register for activities, manage participation evidence, and track their conduct scores.
+
+Currently, activity information is shared across different channels, making it difficult for students to follow schedules and deadlines. Our goal is to bring these functions together on one platform.
+
+## Slide 1 – User Accounts and Roles
+
+First, we have **User Accounts and Roles**. Our system has three main user groups: Students, Organizations, and Admins.
+
+Students can search for activities and track their conduct scores. Organizations can create and manage events. Admins can manage users and approve activities before publication.
+
+We referred to the systems of University M and University H when planning these roles.
+
+Now, I will start with the functions for student accounts.
+
+## Slide 2 – Activity Search and Registration
+
+Next is **Activity Search and Registration**.
+
+Students can search for activities by criteria or faculty, view event details, and register for activities they are interested in.
+
+We referred to University M's registration interface to plan this function.
+
+## Slide 3 – Personal Activity Tracking
+
+The next function is **Personal Activity Tracking and Evidence Management**.
+
+Students can check the conduct criterion, manage their evidence, and submit complaints or additional documents when needed.
+
+We referred to the criteria table from University M and the complaint function from University H.
+
+## Slide 4 – Conduct Score Dashboard
+
+Next is the **Conduct Score Dashboard**.
+
+Students can view their conduct scores and identify criteria they still need to complete.
+
+We plan to adapt the chart style from University M to show three types of scores: the maximum score, the estimated score the student may achieve, and the score that has been officially confirmed.
+
+## Slide 5 – AI Advisor and Notifications
+
+We also propose two additional features.
+
+First, **AI Advisor** recommends activities based on students' interests and progress, and helps them identify missing criteria.
+
+Second, **Notifications and Reminders** informs students about registration deadlines, upcoming activities, and important updates.
+
+These features aim to help students manage their activities more effectively.
+
+## Slide 6 – SUMMARIZE
+
+Finally, this table summarizes the main functions of the systems at University M and University H, which we used as references for DRL Tracker. And our interview findings.
+
+At University H, students can search for specialized-topic activities through a separate website. However, this website only shows results for activities organized by the Student Affairs Office, rather than all student activities.
+
+Based on these systems, we aim to combine activity registration, evidence management, and conduct score tracking in one platform.
+
+Thank you for listening.
+
+==================
+
+MỞ ĐẦU:
+DRL Tracker là một nền tảng web hỗ trợ sinh viên tìm kiếm, đăng ký các hoạt động, quản lý minh chứng tham gia và theo dõi kết quả rèn luyện trong học kỳ.
+
+Ý tưởng của dự án xuất phát từ việc thông tin hoạt động sinh viên thường được đăng tải trên nhiều kênh khác nhau. Điều này khiến sinh viên khó theo dõi thời hạn đăng ký, lịch tổ chức cũng như những tiêu chí rèn luyện mà mình còn thiếu.
+
+Vì vậy, DRL Tracker hướng đến việc tập trung các chức năng này trên một nền tảng, giúp sinh viên chủ động hơn trong việc tham gia hoạt động và theo dõi quá trình rèn luyện của bản thân.
+
+SLIDE 1
+Tiếp theo, em xin trình bày về các chức năng chính của DRL Tracker
+
+1. User Accounts and Roles
+User dự tính gồm sinh viên, các tổ chức và Admin. Dựa trên vai trò người dùng, hệ thống có thể cung cấp các quyền sử dụng tương ứng.
+Tài khoản của Admin bao gồm chức năng quản lý người dùng và duyệt các hoạt động.
+Tài khoản của Organization bao gồm chức năng đăng sự kiện, chỉnh sửa và lên lịch sự kiện.
+
+Bên cạnh, là hình ảnh chức năng mà chúng em tham khảo từ hệ thống của đh M và H.
+
+Sau đây, em xin trình bày luồng hoạt động theo account của svien.
+
+SLIDE 2
+2. Activity Search and Registration
+Sinh viên có thể tìm kiếm, lọc hoạt động theo điều mục hoặc khoa, xem nội dung và đăng ký tham gia.
+
+Bên cạnh là hình ảnh chức năng đky được tham khảo từ đh M.
+
+SLIDE 3
+3. Personal Activity Tracking
+Hệ thống thể hiện các điều khoản hiện hành theo nhà trường. Sinh viên có thể xem điều khoản, quản lý minh chứng và gửi yêu cầu khiếu nại hoặc bổ sung tài liệu.
+
+Bên cạnh là hình ảnh chức năng điều khoản_minh chứng được tham khảo từ đh M, và chức năng khiếu nại của đh H.
+
+SLIDE 4
+4. Conduct Score Dashboard
+Hiển thị kết quả rèn luyện đã ghi nhận để sinh viên nắm được tình hình của bản thân. Bên cạnh kết quả hiện tại, DRL Tracker hướng đến việc thể hiện tiến độ theo từng điều khoản, giúp sinh viên nhận biết những nội dung cần bổ sung.
+
+Bên cạnh là hình ảnh chức năng kết quả của đh M và H. trong đó, tham khảo biểu đồ của đh M, thay đổi thành điểm tối đa, điểm dự tính đã đạt và điểm đã xác nhận.
+
+SLIDE 5
+Sau đây là các chức năng khác mà tụi em lên ý tưởng dựa trên phản hồi từ người được phỏng vấn và Chatgpt.
+
+5. AI Advisor
+Gợi ý hoạt động dựa trên sở thích và tiến độ rèn luyện được ghi nhận, đồng thời hỗ trợ sinh viên nhận biết các tiêu chí còn thiếu.
+
+6. Notifications & Reminders
+Nhắc hạn đăng ký, lịch hoạt động sắp diễn ra và những thông tin quan trọng giúp sinh viên chủ động sắp xếp thời gian.
+
+SLIDE 6
+Tóm tắt các chức năng và nền tảng tham khảo cùng đề xuất có được khi thực hiện phỏng vấn.
+
+Trong đó, exclusive ở mục Search specialized-topic activities nghĩa là đh H cung cấp chức năng trên thông qua 1 web khác, đồng thời chỉ cho biết kết quả của hoạt động do phòng công tác sv tổ chức thay vì toàn bộ các hoạt động.
+
+
